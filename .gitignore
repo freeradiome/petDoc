@@ -1,0 +1,14 @@
+# Non-project-specific build files:
+platforms/android/build.xml
+platforms/android/local.properties
+platforms/android/gradlew
+platforms/android/gradlew.bat
+/gradle
+# Ant builds
+platforms/android/ant-built
+platforms/android/ant-gen
+# Eclipse builds
+platforms/android/gen
+platforms/android/out
+# Gradle builds
+platforms/android//build
